@@ -2,6 +2,12 @@
 
 I'm a **Full Stack Developer** based in the UK, passionate about building scalable, efficient, and innovative applications. I specialize in both front-end and back-end development, with a knack for crafting seamless user experiences and robust server-side systems.
 
+## 👷‍♂️ Recent Projects
+
+1. `TODOLIST` - A straightforward and efficient to-do application that helps you organize your tasks with ease.
+   - [View Application](https://joshleatherland.github.io/ToDoList/)
+   - [View Repository](https://github.com/JoshLeatherland/ToDoList)
+
 ## 🛠️ Tech Stack
 
 Here’s a glimpse of the technologies and tools I work with regularly:
