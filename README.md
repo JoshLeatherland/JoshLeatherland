@@ -47,25 +47,25 @@ Here’s a glimpse of the technologies and tools I work with regularly:
 
 ![xUnit](https://skillicons.dev/icons?i=dotnet)
 
----
-
 ## 📈 GitHub Stats
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshLeatherland&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshLeatherland&layout=compact&theme=radical)
 
----
+[![Josh's current streak](https://streak-stats.demolab.com/?user=joshleatherland&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+## 🎨 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/joshleatherland/count.svg)
 
 ## 🌟 Projects
 
 Check out some of my pinned repositories below or [visit my repositories](https://github.com/JoshLeatherland?tab=repositories) for more!
 
----
-
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/joshua-leatherland-99b465165/)
+[LinkedIn](https://www.linkedin.com/in/joshua-leatherland-99b465165/)
 
 ---
 
