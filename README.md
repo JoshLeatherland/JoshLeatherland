@@ -7,6 +7,9 @@ I'm a **Full Stack Developer** based in the UK, passionate about building scalab
 1. `TODOLIST` - A straightforward and efficient to-do application that helps you organize your tasks with ease.
    - [View Application](https://joshleatherland.github.io/ToDoList/)
    - [View Repository](https://github.com/JoshLeatherland/ToDoList)
+2. `Password Generator` - A sleek and user-friendly password generator that ensures your online security with custom, strong passwords.
+   - [View Application](https://joshleatherland.github.io/PasswordGenerator/)
+   - [View Repository](https://github.com/JoshLeatherland/PasswordGenerator)
 
 ## 🛠️ Tech Stack
 
