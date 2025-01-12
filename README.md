@@ -59,7 +59,7 @@ Here’s a glimpse of the technologies and tools I work with regularly:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshLeatherland&layout=compact&theme=radical)
 
-[![Josh's current streak](https://streak-stats.demolab.com/?user=joshleatherland&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Josh's current streak](https://github-readme-streak-stats-nu-teal-49.vercel.app?user=joshleatherland&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## 🎨 Profile Visits
 
