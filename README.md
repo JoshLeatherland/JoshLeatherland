@@ -28,6 +28,8 @@ Here’s a glimpse of the technologies and tools I work with regularly:
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
 ![Vite](https://skillicons.dev/icons?i=vite)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
 
 ### Backend
 
