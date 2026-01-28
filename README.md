@@ -71,7 +71,7 @@ Here’s a glimpse of the technologies and tools I work with regularly:
 
 ## 🎨 Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/joshleatherland/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=joshleatherland)
 
 ## 🌟 Projects
 
@@ -84,3 +84,4 @@ Check out some of my pinned repositories below or [visit my repositories](https:
 ---
 
 ⭐️ _Feel free to star or fork any projects you like!_
+
